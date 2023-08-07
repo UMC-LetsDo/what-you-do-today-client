@@ -1,11 +1,11 @@
-const PTodayContent = () => {
+const HomeContent = () => {
     return (
         <div>
             <div></div>
-            <div>PTogether Content</div>
+            <div>Home Content</div>
             <div></div>
         </div>
     );
 }
 
-export { PTodayContent };
+export { HomeContent };
